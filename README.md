@@ -9,4 +9,4 @@
 ## Contributors:
 * Surya Gangaraj (0xpulsar) 
 * Mohit Surana
-* Rahul Reddy
+* Rahul Reddy (RahulReddy9)
