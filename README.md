@@ -3,8 +3,9 @@
 ## The first neural network predicts the disease.
 ## The second neural network predicts the remedies.
 
-## * [Android App] (https://github.com/SankethBennur/HealthAssistant)
-## * [Programs and Dataset] (https://github.com/SankethBennur/FY_Project/tree/master/PROGRAMS_AND_DATASETS)
+This repository contains Programs and Dataset.
+
+## * [Android App](https://github.com/SankethBennur/HealthAssistant)
 
 ## Contributors:
 * Surya Gangaraj (0xpulsar) 
